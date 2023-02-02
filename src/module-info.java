@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author michel
+ *
+ */
+module chessSystem {
+}
