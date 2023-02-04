@@ -18,7 +18,7 @@ public class ChessPosition {
 	public int getRow() {
 		return row;
 	}
-	protected Position toPositon() {
+	protected Position toPosition() {
 		return new Position(8 - row, column - 'a');		
 	}
 	protected static ChessPosition fromPosition(Position position) {
